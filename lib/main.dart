@@ -1,16 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:widget_1/Button.dart';
-import 'package:widget_1/Scaffold.dart';
-import 'package:widget_1/Tes.dart';
-import 'package:widget_1/dateandtime.dart';
-import 'package:widget_1/dialog.dart';
-import 'dart:async';
+import 'package:widget_1/Alignment.dart';
+import 'package:widget_1/ContainerColor.dart';
 import 'dart:core';
 
-import 'package:widget_1/image_widget.dart';
-import 'package:widget_1/input.dart';
-import 'package:widget_1/itsux.dart';
+import 'package:widget_1/Containerlol.dart';
 
 
 
@@ -67,7 +61,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Containerbutton(),
+      home: containercolor(),
     debugShowCheckedModeBanner: false,
     );
   }
