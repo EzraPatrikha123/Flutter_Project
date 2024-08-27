@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<<<<<<< HEAD
+=======
+#Hasil Tampilan
+![alt text](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/lib/Minecraft.png?raw=true)
+>>>>>>> 9d52db83ba6667af48fe259e2695de7cf4894c17
