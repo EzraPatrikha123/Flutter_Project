@@ -17,4 +17,17 @@ samples, guidance on mobile development, and a full API reference.
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 #Hasil Tampilan
+=======
+
+## Gambar Tampilan
+Gambar Text Widget
+![Text Widget](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Text_Widget.png)
+Gambar Button Widget
+![Button Widget](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Button_Widget.png)
+Gambar Scaffold Widget
+![Scaffold Widget](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Scaffold_Widget.png)
+Gambar Dialog Alert
+![Alert Dialog](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Dialog_Widget.png)
+>>>>>>> c4e36f8e267389728910a36daa0e6d7d48528931
