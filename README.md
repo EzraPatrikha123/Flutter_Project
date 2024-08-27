@@ -17,6 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 <<<<<<< HEAD
 =======
-#Hasil Tampilan
-![alt text](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/lib/Minecraft.png?raw=true)
->>>>>>> 9d52db83ba6667af48fe259e2695de7cf4894c17
+
+## Gambar Tampilan
+Gambar Text Widget
+![Text Widget](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Text_Widget.png)
+Gambar Button Widget
+![Button Widget](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Button_Widget.png)
+Gambar Scaffold Widget
+![Scaffold Widget](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Scaffold_Widget.png)
+Gambar Dialog Alert
+![Alert Dialog](https://github.com/EzraPatrikha123/Flutter_Project/blob/main/assets/Dialog_Widget.png)
