@@ -5,6 +5,8 @@ import 'package:widget_1/ContainerColor.dart';
 import 'dart:core';
 
 import 'package:widget_1/Containerlol.dart';
+import 'package:widget_1/Scaffold.dart';
+import 'package:widget_1/Text.dart';
 
 
 
@@ -61,7 +63,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: containercolor(),
+      home: HaiE(),
     debugShowCheckedModeBanner: false,
     );
   }

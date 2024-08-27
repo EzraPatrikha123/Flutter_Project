@@ -12,13 +12,28 @@ class containercolor extends StatelessWidget {
         backgroundColor: Colors.blue,
         foregroundColor: Colors.black,
       ),
-      body: Container(
-        margin: EdgeInsets.all(50),
-        height: 200,
-        width: 200,
-        alignment: Alignment.center,
-        color: Colors.amber[900],
-        child: Text('Wazzzuuhhhh'),
+      body: Column(
+        children: [
+          Container(
+            margin: EdgeInsets.all(50),
+            height: 200,
+            width: 200,
+            alignment: Alignment.center,
+            color: Colors.amber[900],
+            child: Text('Wazzzuuhhhh', style: TextStyle(fontSize: 30, color: Colors.white),),
+          ),
+          Container(
+            margin: EdgeInsets.all(50),
+            height: 200,
+            width: 200,
+            alignment: Alignment.topLeft, color: Colors.blueGrey,
+            child: Text('Belajar Flutter',style: TextStyle(fontSize: 20, color: Colors.white),),
+          ),
+          Container(padding: EdgeInsets.only(top: 20),
+            margin: EdgeInsets.all(20),
+
+          ),
+        ],
       ),
     );
   }
