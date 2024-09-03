@@ -7,7 +7,12 @@ import 'dart:core';
 import 'package:widget_1/Containerlol.dart';
 import 'package:widget_1/Scaffold.dart';
 import 'package:widget_1/Text.dart';
+import 'package:widget_1/column.dart';
 import 'package:widget_1/dnd.dart';
+import 'package:widget_1/row.dart';
+import 'package:widget_1/scaffoldrapi.dart';
+import 'package:widget_1/stack_position.dart';
+import 'package:widget_1/stack_position2.dart';
 
 
 
@@ -64,7 +69,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Widgetelimao(),
+      home: StackPosition2(),
     debugShowCheckedModeBanner: false,
     );
   }

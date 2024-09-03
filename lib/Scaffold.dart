@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:widget_1/date_widget.dart';
 import 'package:widget_1/input_selection.dart';
+import 'package:widget_1/row_column.dart';
 import 'dialog.dart';
 
 
@@ -38,7 +39,8 @@ class  ScaffoldWidget  extends StatelessWidget {
           ),
           DialogWidget(),
           InputSelection(),
-          DateWidget(title: '')
+          DateWidget(title: ''),
+          WhatTheFuckIsAKilometerRahhhh()
         ],
       ),
 
